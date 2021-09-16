@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//github.com/owencox12/todo2/static/css/main.3fa85b7b.chunk.css",
+    "main.js": "/https//github.com/owencox12/todo2/static/js/main.20e6b5c9.chunk.js",
+    "main.js.map": "/https//github.com/owencox12/todo2/static/js/main.20e6b5c9.chunk.js.map",
+    "runtime-main.js": "/https//github.com/owencox12/todo2/static/js/runtime-main.0654f6cd.js",
+    "runtime-main.js.map": "/https//github.com/owencox12/todo2/static/js/runtime-main.0654f6cd.js.map",
+    "static/js/2.e119aaee.chunk.js": "/https//github.com/owencox12/todo2/static/js/2.e119aaee.chunk.js",
+    "static/js/2.e119aaee.chunk.js.map": "/https//github.com/owencox12/todo2/static/js/2.e119aaee.chunk.js.map",
+    "index.html": "/https//github.com/owencox12/todo2/index.html",
+    "static/css/main.3fa85b7b.chunk.css.map": "/https//github.com/owencox12/todo2/static/css/main.3fa85b7b.chunk.css.map",
+    "static/js/2.e119aaee.chunk.js.LICENSE.txt": "/https//github.com/owencox12/todo2/static/js/2.e119aaee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0654f6cd.js",
+    "static/js/2.e119aaee.chunk.js",
+    "static/css/main.3fa85b7b.chunk.css",
+    "static/js/main.20e6b5c9.chunk.js"
+  ]
+}
